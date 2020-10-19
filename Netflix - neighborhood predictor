@@ -6,7 +6,7 @@
       "name": "Netflix Algorithm - A60039 Park Yongjae",
       "provenance": [],
       "collapsed_sections": [],
-      "authorship_tag": "ABX9TyPGBhwH942Occpcm4fW7K3m",
+      "authorship_tag": "ABX9TyOgyzn7eJbTAxiUTCgOPr6L",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,6 +23,15 @@
       },
       "source": [
         "<a href=\"https://colab.research.google.com/github/mapmatters/my-exercise/blob/master/Netflix%20-%20neighborhood%20predictor\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "-Guo37D1rh_-"
+      },
+      "source": [
+        "# A60039 Park Yongjae"
       ]
     },
     {
